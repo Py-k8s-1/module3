@@ -1,0 +1,16 @@
+{
+  "language": [
+    {
+      "name": "javascript",
+      "details": "javascript is a dynamic prog",
+      "id": 1
+
+    },
+    {
+      "name": "javascript1",
+      "details": "javascript is a dynamic prog1",
+      "id": 2
+
+    }
+  ]
+}
