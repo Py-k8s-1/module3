@@ -1,0 +1,15 @@
+.input-element{
+    width: 90%;
+    height: 25px;
+    margin: 10px;
+
+}
+
+#Login-Button{
+    height: 35px;
+    width: 50px;
+    border: none;
+    margin: 10px;
+    background-color: tomato;
+    padding: 5px;
+}
