@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.container {
+  /* margin: auto; */
+  border: 1px solid black;
+  padding: 10px;
+  margin: auto;
+  height: auto;
+  width: 30%;
+  text-align: center;
+  background-color: rgb(87, 136, 136);
+  display: block;
+  margin-top: 20px;
+}
+#increment-count{
+    background-color: green;
+    padding: 5px;
+    
+}
+#decrement-count{
+    background-color: red;
+    padding: 5px;
+    
+}
+
